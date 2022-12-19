@@ -1,0 +1,67 @@
+server:
+  port: ${PORT_CARRITO:80}
+  address: 0.0.0.0
+  servlet:
+    context-path: /trabajadores_arl
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: mappings, health
+      base-path: /
+
+
+info:
+  status: UP
+
+spring:
+  application:
+    name: trabajadores_arl
+
+
+logging:
+  level:
+    org:
+      hibernate:
+        type: trace
+
+app:
+  aws:
+    region: us-east-1
+    prefix: /config
+    env_prefix: /${ENV_PREFIX:dev}
+  db_params:
+    ip: bd.oracle.tronador.ip
+    service: bd.oracle.tronador.service
+    username: bd.oracle.tronador.username
+    password: bd.oracle.tronador.password
+    port_db: 1521
+    driver_db: oracle.jdbc.OracleDriver
+
+springdoc:
+  api-docs:
+    path: /srv-personas_trabajadores_arl-openapi
+
+bolivar:
+  api:
+    doc:
+      api-title: API Personas trabajadores ARL
+      api-description: API definida para el dominio comunes-personas-trabajadores-arl-ms
+      api-terms-of-service: ""
+      api-contact:
+        name: Javier Pérez
+        email: javier.perez@segurosbolivar.com
+      api-license:
+        name: Apache 2.0
+        url: http://www.apache.org/licenses/LICENSE-2.0.html
+      api-version: 1.0.0
+      api-servers:
+      - url: http://localhost:80/trabajadores_arl
+        description: Servidor de desarrollo local
+      - url: https://fz73xehwah.execute-api.us-east-1.amazonaws.com/dev/trabajadores_arl
+        description: Servidor de desarrollo
+      - url: https://c4huz7dmpc-vpce-0d1e15f4e7cf53d97.execute-api.us-east-1.amazonaws.com/stage/trabajadores_arl
+        description: Servidor de stage
+      - url: https://03l44gahq8-vpce-0316f1f34c146e45d.execute-api.us-east-1.amazonaws.com/prod/trabajadores_arl
+        description: Servidor de produccion

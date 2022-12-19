@@ -1,0 +1,10 @@
+package com.bolivar.comunes.personas_trabajadores_arl.retirartrabajadordependiente.services;
+
+import com.bolivar.comunes.personas_trabajadores_arl.commons.dto.RetiroTrabajadorRequestDTO;
+import com.bolivar.comunes.personas_trabajadores_arl.commons.dto.RetiroTrabajadorResponseDTO;
+import com.bolivar.comunes.personas_trabajadores_arl.retirartrabajadordependiente.models.RetirarTrabajadorDependienteRequest;
+import com.bolivar.comunes.personas_trabajadores_arl.retirartrabajadordependiente.models.RetirarTrabajadorDependienteResponse;
+
+public interface RetirarTrabajadorDependienteService {
+	RetirarTrabajadorDependienteResponse retirarTrabajador(RetirarTrabajadorDependienteRequest informacion);
+}

@@ -1,0 +1,1531 @@
+{
+  "dataHeader": {
+    "codRespuesta": 0,
+    "errores": []
+  },
+  "data": {
+    "trabajadores": [
+      {
+        "ideNit": "CC",
+        "nit": 187230,
+        "fecIngreso": "2020-03-27T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "343",
+          "valor": "MONTAJE DE ESTRUCTURAS MECANICAS Y TUBERIAS IMPALA"
+        },
+        "descCargo": {
+          "codigo": "52858",
+          "valor": "781242"
+        },
+        "descEps": {
+          "codigo": "1",
+          "valor": "ALIANSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "10",
+          "valor": "COLFONDOS"
+        },
+        "descDependIndepen": {
+          "codigo": "21",
+          "valor": "ESTUDIANTES DE POSTGRADO EN SALUD DEC.190/1996"
+        },
+        "salario": 2000000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1953-01-22T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "27019",
+          "valor": "BARRANCABERMEJA"
+        },
+        "coberturaExteriorFecInicio": "2020-03-27T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "VICENZO",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "GUARINI",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 11222333,
+        "fecIngreso": "2020-03-10T05:00:00.000+00:00",
+        "fecBaja": null,
+        "descCentrotrab": {
+          "codigo": "26",
+          "valor": "26 - 26 - 26 - 26 - OBRA 041 CAJAMARQUILLA"
+        },
+        "descCargo": {
+          "codigo": "575",
+          "valor": "ACCOUNTING SUPPORT"
+        },
+        "descEps": {
+          "codigo": "4",
+          "valor": "BONSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "25",
+          "valor": "COLPENSIONES"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 2500000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1978-05-07T05:00:00.000+00:00",
+        "estado": "ACTIVO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-10T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": null,
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "JAVIER",
+        "naturalesSegundoNombre": "ENRIQUE",
+        "naturalesPrimerApellido": "SANCHEZ",
+        "naturalesSegundoApellido": "HERNANDEZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 11222333,
+        "fecIngreso": "2020-03-10T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "575",
+          "valor": "ACCOUNTING SUPPORT"
+        },
+        "descEps": {
+          "codigo": "4",
+          "valor": "BONSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "25",
+          "valor": "COLPENSIONES"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 2500000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1978-05-07T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-10T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "JAVIER",
+        "naturalesSegundoNombre": "ENRIQUE",
+        "naturalesPrimerApellido": "SANCHEZ",
+        "naturalesSegundoApellido": "HERNANDEZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 11333444,
+        "fecIngreso": "2020-03-11T05:00:00.000+00:00",
+        "fecBaja": null,
+        "descCentrotrab": {
+          "codigo": "26",
+          "valor": "26 - 26 - 26 - 26 - OBRA 041 CAJAMARQUILLA"
+        },
+        "descCargo": {
+          "codigo": "5135",
+          "valor": "ACTORES"
+        },
+        "descEps": {
+          "codigo": "27",
+          "valor": "BARRANQUILLA SANA E.P.S"
+        },
+        "descAfp": {
+          "codigo": "4",
+          "valor": "COLMENA"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 2500000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1973-03-03T05:00:00.000+00:00",
+        "estado": "ACTIVO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-11T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": null,
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "EDILMA",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "CÁCERES",
+        "naturalesSegundoApellido": "ARCINIEGAS"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 11333444,
+        "fecIngreso": "2020-03-11T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "5135",
+          "valor": "ACTORES"
+        },
+        "descEps": {
+          "codigo": "27",
+          "valor": "BARRANQUILLA SANA E.P.S"
+        },
+        "descAfp": {
+          "codigo": "4",
+          "valor": "COLMENA"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 2500000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1973-03-03T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-11T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "EDILMA",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "CÁCERES",
+        "naturalesSegundoApellido": "ARCINIEGAS"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 12400480,
+        "fecIngreso": "2020-03-19T05:00:00.000+00:00",
+        "fecBaja": null,
+        "descCentrotrab": {
+          "codigo": "26",
+          "valor": "26 - 26 - 26 - 26 - OBRA 041 CAJAMARQUILLA"
+        },
+        "descCargo": {
+          "codigo": "50069",
+          "valor": "ACEITERO"
+        },
+        "descEps": {
+          "codigo": "210",
+          "valor": "CAJACOPI"
+        },
+        "descAfp": {
+          "codigo": "8",
+          "valor": "DAVIVIR"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 1250000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1970-01-01T05:00:00.000+00:00",
+        "estado": "ACTIVO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-19T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": null,
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "JOSELITO",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "AGUIRRE",
+        "naturalesSegundoApellido": "CRUZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 12400480,
+        "fecIngreso": "2020-03-19T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "50069",
+          "valor": "ACEITERO"
+        },
+        "descEps": {
+          "codigo": "210",
+          "valor": "CAJACOPI"
+        },
+        "descAfp": {
+          "codigo": "8",
+          "valor": "DAVIVIR"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 1250000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1970-01-01T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-19T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "JOSELITO",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "AGUIRRE",
+        "naturalesSegundoApellido": "CRUZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 12576001,
+        "fecIngreso": "2020-03-11T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "50069",
+          "valor": "ACEITERO"
+        },
+        "descEps": {
+          "codigo": "210",
+          "valor": "CAJACOPI"
+        },
+        "descAfp": {
+          "codigo": "8",
+          "valor": "DAVIVIR"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 1250000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1970-01-01T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-11T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "JOSELITO",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "AGUIRRE",
+        "naturalesSegundoApellido": "CRUZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 12576002,
+        "fecIngreso": "2020-03-11T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "50069",
+          "valor": "ACEITERO"
+        },
+        "descEps": {
+          "codigo": "210",
+          "valor": "CAJACOPI"
+        },
+        "descAfp": {
+          "codigo": "8",
+          "valor": "DAVIVIR"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 1250000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1970-01-01T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-11T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "JOSELITO",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "AGUIRRE",
+        "naturalesSegundoApellido": "CRUZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 33558899,
+        "fecIngreso": "2020-03-13T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "26",
+          "valor": "26 - 26 - 26 - 26 - OBRA 041 CAJAMARQUILLA"
+        },
+        "descCargo": {
+          "codigo": "1456",
+          "valor": "ADMINISTRADOR DE AGENCIA"
+        },
+        "descEps": {
+          "codigo": "208",
+          "valor": "COMFACOR"
+        },
+        "descAfp": {
+          "codigo": "1",
+          "valor": "COLPATRIA"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 1000000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1972-03-09T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-13T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "MARTHA",
+        "naturalesSegundoNombre": "PATRICIA",
+        "naturalesPrimerApellido": "JIMÉNEZ",
+        "naturalesSegundoApellido": "DÍAZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 41692490,
+        "fecIngreso": "2020-03-04T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "51646",
+          "valor": "ABOGADA SENIOR"
+        },
+        "descEps": {
+          "codigo": "1",
+          "valor": "ALIANSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "4",
+          "valor": "COLMENA"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 3500000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1956-08-15T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-04T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "JULIANA",
+        "naturalesSegundoNombre": "ABIGAIL",
+        "naturalesPrimerApellido": "VILLAMIZAR",
+        "naturalesSegundoApellido": "CORREDOR"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 43521494,
+        "fecIngreso": "2020-03-04T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "51646",
+          "valor": "ABOGADA SENIOR"
+        },
+        "descEps": {
+          "codigo": "1",
+          "valor": "ALIANSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "4",
+          "valor": "COLMENA"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 3500000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1986-03-02T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-04T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "DORIS ",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "MUNERA ",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 52194555,
+        "fecIngreso": "2020-03-01T05:00:00.000+00:00",
+        "fecBaja": "2020-11-15T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "26",
+          "valor": "26 - 26 - 26 - 26 - OBRA 041 CAJAMARQUILLA"
+        },
+        "descCargo": {
+          "codigo": "60492",
+          "valor": "ABOGADA"
+        },
+        "descEps": {
+          "codigo": "62",
+          "valor": "ASMET SALUD EPS"
+        },
+        "descAfp": {
+          "codigo": "25",
+          "valor": "COLPENSIONES"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 6000000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1975-08-11T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-01T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-11-15T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "LUZ",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "BETANCURT",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 52194777,
+        "fecIngreso": "2020-03-01T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "60492",
+          "valor": "ABOGADA"
+        },
+        "descEps": {
+          "codigo": "4",
+          "valor": "BONSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "10",
+          "valor": "COLFONDOS"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 5000000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1975-11-15T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-01T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "MARIA",
+        "naturalesSegundoNombre": "ANTONIA",
+        "naturalesPrimerApellido": "MARTINEZ",
+        "naturalesSegundoApellido": "GARCIA"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 52804452,
+        "fecIngreso": "2020-03-01T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "53762",
+          "valor": "2 PASARELA ACOMODACIÓN (LAT.DER) PASARELA 2"
+        },
+        "descEps": {
+          "codigo": "226",
+          "valor": "A.I.C."
+        },
+        "descAfp": {
+          "codigo": "26",
+          "valor": "CAXDAC"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 2500000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1981-09-06T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-01T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "JOHANNA",
+        "naturalesSegundoNombre": "ALEXANDRA",
+        "naturalesPrimerApellido": "CIFUENTES",
+        "naturalesSegundoApellido": "LOZANO"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 52999999,
+        "fecIngreso": "2020-03-31T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "60492",
+          "valor": "ABOGADA"
+        },
+        "descEps": {
+          "codigo": "8",
+          "valor": "COMPENSAR E.P.S"
+        },
+        "descAfp": {
+          "codigo": "25",
+          "valor": "COLPENSIONES"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 2000000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1984-10-14T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-31T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "NATALIA",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "MAHECHA",
+        "naturalesSegundoApellido": "RODRIGUEZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 79622639,
+        "fecIngreso": "2020-03-01T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "343",
+          "valor": "MONTAJE DE ESTRUCTURAS MECANICAS Y TUBERIAS IMPALA"
+        },
+        "descCargo": {
+          "codigo": "711",
+          "valor": "INGENIERO DE CALIDAD"
+        },
+        "descEps": {
+          "codigo": "4",
+          "valor": "BONSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "2",
+          "valor": "PROTECCION"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 8000000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1980-09-01T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "27019",
+          "valor": "BARRANCABERMEJA"
+        },
+        "coberturaExteriorFecInicio": "2020-03-01T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "MARCO",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "VEGA",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 79625048,
+        "fecIngreso": "2020-03-11T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "26",
+          "valor": "ABOGADO"
+        },
+        "descEps": {
+          "codigo": "3",
+          "valor": "CAFESALUD E.P.S."
+        },
+        "descAfp": {
+          "codigo": "10",
+          "valor": "COLFONDOS"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 4000000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1972-01-26T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-11T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "RAUL",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "VALENZUELA",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 79625048,
+        "fecIngreso": "2020-03-25T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "26",
+          "valor": "26 - 26 - 26 - 26 - OBRA 041 CAJAMARQUILLA"
+        },
+        "descCargo": {
+          "codigo": "26",
+          "valor": "ABOGADO"
+        },
+        "descEps": {
+          "codigo": "126",
+          "valor": "ASOCIACION INDIGENA DEL CAUCA"
+        },
+        "descAfp": {
+          "codigo": "10",
+          "valor": "COLFONDOS"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 1000000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1972-01-26T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-25T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "RAUL",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "VALENZUELA",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 79625048,
+        "fecIngreso": "2020-03-01T05:00:00.000+00:00",
+        "fecBaja": "2020-03-02T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "1989",
+          "valor": "Ingeniero Senior de Minas"
+        },
+        "descEps": {
+          "codigo": "5",
+          "valor": "E.P.S SANITAS"
+        },
+        "descAfp": {
+          "codigo": "4",
+          "valor": "COLMENA"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 7000000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1985-12-05T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-01T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-03-02T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "RAUL",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "VALENZUELA",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 79666333,
+        "fecIngreso": "2020-03-01T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "2271",
+          "valor": "PILOTOS, INGENIEROS E INSTRUCTORES DE VUELO"
+        },
+        "descEps": {
+          "codigo": "3",
+          "valor": "CAFESALUD E.P.S."
+        },
+        "descAfp": {
+          "codigo": "8",
+          "valor": "DAVIVIR"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 6000000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1989-05-08T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-01T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "SAMUEL",
+        "naturalesSegundoNombre": "ANDRES",
+        "naturalesPrimerApellido": "TOVAR",
+        "naturalesSegundoApellido": "PINILA"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 1010894512,
+        "fecIngreso": "2020-03-01T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "60492",
+          "valor": "ABOGADA"
+        },
+        "descEps": {
+          "codigo": "3",
+          "valor": "CAFESALUD E.P.S."
+        },
+        "descAfp": {
+          "codigo": "8",
+          "valor": "DAVIVIR"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 9000000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1992-04-07T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-01T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "MARIA",
+        "naturalesSegundoNombre": "CLAUDIA",
+        "naturalesPrimerApellido": "RIOS",
+        "naturalesSegundoApellido": "RODRIGUEZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 1023862909,
+        "fecIngreso": "2020-03-01T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "343",
+          "valor": "MONTAJE DE ESTRUCTURAS MECANICAS Y TUBERIAS IMPALA"
+        },
+        "descCargo": {
+          "codigo": "2271",
+          "valor": "PILOTOS, INGENIEROS E INSTRUCTORES DE VUELO"
+        },
+        "descEps": {
+          "codigo": "5",
+          "valor": "E.P.S SANITAS"
+        },
+        "descAfp": {
+          "codigo": "4",
+          "valor": "COLMENA"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 6000000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1995-09-01T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "27019",
+          "valor": "BARRANCABERMEJA"
+        },
+        "coberturaExteriorFecInicio": "2020-03-01T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "LADY",
+        "naturalesSegundoNombre": "DALILA",
+        "naturalesPrimerApellido": "MARTINEZ",
+        "naturalesSegundoApellido": "HERRERA"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 1033745576,
+        "fecIngreso": "2020-03-01T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "343",
+          "valor": "MONTAJE DE ESTRUCTURAS MECANICAS Y TUBERIAS IMPALA"
+        },
+        "descCargo": {
+          "codigo": "1989",
+          "valor": "Ingeniero Senior de Minas"
+        },
+        "descEps": {
+          "codigo": "5",
+          "valor": "E.P.S SANITAS"
+        },
+        "descAfp": {
+          "codigo": "10",
+          "valor": "COLFONDOS"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 7000000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "F",
+          "valor": "Femenino"
+        },
+        "fecNacimiento": "1994-08-05T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "27019",
+          "valor": "BARRANCABERMEJA"
+        },
+        "coberturaExteriorFecInicio": "2020-03-01T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "KATHERINE",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "OQUENDO",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 8010451301,
+        "fecIngreso": "2020-03-04T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "51646",
+          "valor": "ABOGADA SENIOR"
+        },
+        "descEps": {
+          "codigo": "1",
+          "valor": "ALIANSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "4",
+          "valor": "COLMENA"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 3500000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1983-03-03T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-04T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "OSCAR",
+        "naturalesSegundoNombre": "FERNANDO",
+        "naturalesPrimerApellido": "ALEXANDER",
+        "naturalesSegundoApellido": "PACHO"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 8010451302,
+        "fecIngreso": "2020-03-04T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "51646",
+          "valor": "ABOGADA SENIOR"
+        },
+        "descEps": {
+          "codigo": "1",
+          "valor": "ALIANSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "4",
+          "valor": "COLMENA"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 3500000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1983-03-02T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-04T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "CARLOS",
+        "naturalesSegundoNombre": "VIVES",
+        "naturalesPrimerApellido": "GUITEREZZ",
+        "naturalesSegundoApellido": "RAMIREZ"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 8010451303,
+        "fecIngreso": "2020-03-05T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "1",
+          "valor": "OCUPACIONES DE FINANZAS Y ADMINISTRACION"
+        },
+        "descEps": {
+          "codigo": "1",
+          "valor": "ALIANSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "1",
+          "valor": "COLPATRIA"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 1000000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1972-09-29T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-05T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "DAVID",
+        "naturalesSegundoNombre": "AUGUSTO",
+        "naturalesPrimerApellido": "SOLER",
+        "naturalesSegundoApellido": "MEJIA"
+      },
+      {
+        "ideNit": "CC",
+        "nit": 8010451351,
+        "fecIngreso": "2020-03-21T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "51646",
+          "valor": "ABOGADA SENIOR"
+        },
+        "descEps": {
+          "codigo": "1",
+          "valor": "ALIANSALUD E.P.S"
+        },
+        "descAfp": {
+          "codigo": "4",
+          "valor": "COLMENA"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 3500000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1985-03-20T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-21T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "TEST",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "TEST",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 9015157806,
+        "fecIngreso": "2020-03-02T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "53758",
+          "valor": "1 PASARELA ACOMODACIÓN (LAT.DER) PASARELA 1"
+        },
+        "descEps": {
+          "codigo": "226",
+          "valor": "A.I.C."
+        },
+        "descAfp": {
+          "codigo": "10",
+          "valor": "COLFONDOS"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 2500000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1987-02-11T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-02T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "SANJEEV",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "KAR",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 9015157815,
+        "fecIngreso": "2020-03-04T05:00:00.000+00:00",
+        "fecBaja": "2020-04-07T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "58",
+          "valor": "50 - GUATEMALA MONTAJE MECANICO"
+        },
+        "descCargo": {
+          "codigo": "26",
+          "valor": "ABOGADO"
+        },
+        "descEps": {
+          "codigo": "76",
+          "valor": "AMBUQ"
+        },
+        "descAfp": {
+          "codigo": "25",
+          "valor": "COLPENSIONES"
+        },
+        "descDependIndepen": {
+          "codigo": "1",
+          "valor": "DEPENDIENTE"
+        },
+        "salario": 10000000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1987-07-10T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14023",
+          "valor": "CHIA"
+        },
+        "coberturaExteriorFecInicio": "2020-03-04T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-07T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "SANJEEV",
+        "naturalesSegundoNombre": "KAR",
+        "naturalesPrimerApellido": "DEPENDIENTE",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 9015157816,
+        "fecIngreso": "2020-03-06T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "53",
+          "valor": "OBRA 342 PUERTO MULTI  IMPALA"
+        },
+        "descCargo": {
+          "codigo": "60492",
+          "valor": "ABOGADA"
+        },
+        "descEps": {
+          "codigo": "76",
+          "valor": "AMBUQ"
+        },
+        "descAfp": {
+          "codigo": "9",
+          "valor": "OLD MUTUAL"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 2500000,
+        "claseRiesgo": "5",
+        "tasaRiesgo": "6.96",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1987-07-10T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "27019",
+          "valor": "BARRANCABERMEJA"
+        },
+        "coberturaExteriorFecInicio": "2020-03-06T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "SANJEEV",
+        "naturalesSegundoNombre": "KAR",
+        "naturalesPrimerApellido": "INDEP",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 9015157850,
+        "fecIngreso": "2020-03-24T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "60492",
+          "valor": "ABOGADA"
+        },
+        "descEps": {
+          "codigo": "210",
+          "valor": "CAJACOPI"
+        },
+        "descAfp": {
+          "codigo": "27",
+          "valor": "FONDO DE PREVISIÓN SOCIAL DELO"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 1200000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1987-03-22T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-24T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "SANJEEV",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "KAR",
+        "naturalesSegundoApellido": null
+      },
+      {
+        "ideNit": "CC",
+        "nit": 9015157852,
+        "fecIngreso": "2020-03-24T05:00:00.000+00:00",
+        "fecBaja": "2020-04-08T05:00:00.000+00:00",
+        "descCentrotrab": {
+          "codigo": "1",
+          "valor": "1 - OFICINA PRINCIPAL"
+        },
+        "descCargo": {
+          "codigo": "26",
+          "valor": "ABOGADO"
+        },
+        "descEps": {
+          "codigo": "226",
+          "valor": "A.I.C."
+        },
+        "descAfp": {
+          "codigo": "26",
+          "valor": "CAXDAC"
+        },
+        "descDependIndepen": {
+          "codigo": "59",
+          "valor": "IND CONTRATO PRESTACION DE SERVICIOS MAYOR A 1MES"
+        },
+        "salario": 1250000,
+        "claseRiesgo": "1",
+        "tasaRiesgo": "0.522",
+        "sexo": {
+          "codigo": "M",
+          "valor": "Masculino"
+        },
+        "fecNacimiento": "1980-03-11T05:00:00.000+00:00",
+        "estado": "RETIRADO",
+        "desCentrotrabCiudad": {
+          "codigo": "14000",
+          "valor": "BOGOTA D.C."
+        },
+        "coberturaExteriorFecInicio": "2020-03-24T05:00:00.000+00:00",
+        "coberturaExteriorFecFin": "2020-04-08T05:00:00.000+00:00",
+        "coberturaExteriorIndicator": null,
+        "naturalesPrimerNombre": "SANJEEV",
+        "naturalesSegundoNombre": null,
+        "naturalesPrimerApellido": "KAR",
+        "naturalesSegundoApellido": null
+      }
+    ],
+    "numeroPoliza": 1000387288016,
+    "fechaPoliza": "01-01-2006",
+    "totalRegistros": 33
+  }
+}
