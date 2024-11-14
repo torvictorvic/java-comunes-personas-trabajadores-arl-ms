@@ -1,0 +1,8 @@
+package com.xxxxxxxx.comunes.personas_trabajadores_arl.consultartrabajadores.services;
+
+import com.xxxxxxxx.comunes.personas_trabajadores_arl.consultartrabajadores.models.ConsultarTrabajadoresRequest;
+import com.xxxxxxxx.comunes.personas_trabajadores_arl.consultartrabajadores.models.ConsultarTrabajadoresResponse;
+
+public interface ConsultarTrabajadoresService {
+	ConsultarTrabajadoresResponse consultarTrabajadores(ConsultarTrabajadoresRequest peticion);
+}

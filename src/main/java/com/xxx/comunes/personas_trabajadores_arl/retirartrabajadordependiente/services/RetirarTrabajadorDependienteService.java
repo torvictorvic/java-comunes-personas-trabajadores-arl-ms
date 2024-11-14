@@ -1,0 +1,10 @@
+package com.xxxxxxxx.comunes.personas_trabajadores_arl.retirartrabajadordependiente.services;
+
+import com.xxxxxxxx.comunes.personas_trabajadores_arl.commons.dto.RetiroTrabajadorRequestDTO;
+import com.xxxxxxxx.comunes.personas_trabajadores_arl.commons.dto.RetiroTrabajadorResponseDTO;
+import com.xxxxxxxx.comunes.personas_trabajadores_arl.retirartrabajadordependiente.models.RetirarTrabajadorDependienteRequest;
+import com.xxxxxxxx.comunes.personas_trabajadores_arl.retirartrabajadordependiente.models.RetirarTrabajadorDependienteResponse;
+
+public interface RetirarTrabajadorDependienteService {
+	RetirarTrabajadorDependienteResponse retirarTrabajador(RetirarTrabajadorDependienteRequest informacion);
+}

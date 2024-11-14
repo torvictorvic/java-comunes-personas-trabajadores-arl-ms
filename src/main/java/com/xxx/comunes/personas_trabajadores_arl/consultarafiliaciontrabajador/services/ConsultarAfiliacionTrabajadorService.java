@@ -1,0 +1,9 @@
+package com.xxxxxxxx.comunes.personas_trabajadores_arl.consultarafiliaciontrabajador.services;
+
+import com.xxxxxxxx.comunes.personas_trabajadores_arl.consultarafiliaciontrabajador.models.ConsultarAfiliacionTrabajadorRequest;
+import com.xxxxxxxx.comunes.personas_trabajadores_arl.consultarafiliaciontrabajador.models.ConsultarAfiliacionTrabajadorResponse;
+
+public interface ConsultarAfiliacionTrabajadorService {
+	public ConsultarAfiliacionTrabajadorResponse consultaAfiliacionTrabajador(
+			ConsultarAfiliacionTrabajadorRequest peticion);
+}
