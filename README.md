@@ -1,7 +1,6 @@
 # comunes-personas-trabajadores-arl-ms
 
-Micro-servicio para personas-trabajadores.
-Expone una API relacionada con el dominio ***Personas Trabajadores ARL*** de Seguros Bolívar.
+Micro-servicios
 
 >  #aws #rest #java #arl #personas-trabajadores
 
@@ -75,18 +74,15 @@ Consideraciones a tener en cuenta con respecto a temas de seguridad de la inform
 ## Endpoints
 
 - **DEV**
-    - API Gateway: https://fz73xehwah.execute-api.us-east-1.amazonaws.com/dev/trabajadores_arl
+    - API Gateway: https://xxxxxxxxx.execute-api.us-east-1.amazonaws.com/dev/trabajadores_arl
 
 - **STAGE**
-    - API Gateway: https://c4huz7dmpc-vpce-0d1e15f4e7cf53d97.execute-api.us-east-1.amazonaws.com/stage/trabajadores_arl
+    - API Gateway: https://xxxxxxxxx-vpce-0d1e15f4e7cf53d97.execute-api.us-east-1.amazonaws.com/stage/trabajadores_arl
 
 - **PROD**
-    - API Gateway: https://03l44gahq8-vpce-0316f1f34c146e45d.execute-api.us-east-1.amazonaws.com/prod/trabajadores_arl
+    - API Gateway: https://xxxxxxxxx-vpce-0316f1f34c146e45d.execute-api.us-east-1.amazonaws.com/prod/trabajadores_arl
 
 
 ---
 
-## Licencia
 
-![License](https://img.shields.io/badge/Licencia-Seguros%20Bolivar-green)
-- Copyright 2022 ©
