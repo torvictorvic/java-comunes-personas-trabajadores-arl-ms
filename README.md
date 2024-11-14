@@ -26,15 +26,15 @@ exponen en una API REST.
 
 Las siguientes son las funcionalidades presentes en este repositorio:
 
-- [crearafiliaciontrabajadores](src/main/java/com/bolivar/comunes/personas_trabajadores_arl/crearafiliaciontrabajadores/README.md)
-- [consultarAfiliacionTrabajador](src/main/java/com/bolivar/comunes/personas_trabajadores_arl/consultarafiliaciontrabajador/README.md)
-- [consultarCargoTrabajador](src/main/java/com/bolivar/comunes/personas_trabajadores_arl/consultarcargotrabajador/README.md)
-- [consultartrabajadores](src/main/java/com/bolivar/comunes/personas_trabajadores_arl/consultartrabajadores/README.md)
-- [crearCargoTrabajador](src/main/java/com/bolivar/comunes/personas_trabajadores_arl/crearcargotrabajador/README.md)
-- [historialnovedadestrabajadores](src/main/java/com/bolivar/comunes/personas_trabajadores_arl/retirartrabajadordependiente/README.md)
-- [retirarTrabajadorDependiente](src/main/java/com/bolivar/comunes/personas_trabajadores_arl/historialnovedadestrabajadores/README.md)
-- [retirarTrabajadorIndependiente](src/main/java/com/bolivar/comunes/personas_trabajadores_arl/retirartrabajadorindependiente/README.md)
-- [consultarguardiantrabajador](src/main/java/com/bolivar/comunes/personas_trabajadores_arl/consultarguardiantrabajador/README.md)
+- [crearafiliaciontrabajadores](src/main/java/com/xxx/comunes/personas_trabajadores_arl/crearafiliaciontrabajadores/README.md)
+- [consultarAfiliacionTrabajador](src/main/java/com/xxx/comunes/personas_trabajadores_arl/consultarafiliaciontrabajador/README.md)
+- [consultarCargoTrabajador](src/main/java/com/xxx/comunes/personas_trabajadores_arl/consultarcargotrabajador/README.md)
+- [consultartrabajadores](src/main/java/com/xxx/comunes/personas_trabajadores_arl/consultartrabajadores/README.md)
+- [crearCargoTrabajador](src/main/java/com/xxx/comunes/personas_trabajadores_arl/crearcargotrabajador/README.md)
+- [historialnovedadestrabajadores](src/main/java/com/xxx/comunes/personas_trabajadores_arl/retirartrabajadordependiente/README.md)
+- [retirarTrabajadorDependiente](src/main/java/com/xxx/comunes/personas_trabajadores_arl/historialnovedadestrabajadores/README.md)
+- [retirarTrabajadorIndependiente](src/main/java/com/xxx/comunes/personas_trabajadores_arl/retirartrabajadorindependiente/README.md)
+- [consultarguardiantrabajador](src/main/java/com/xxx/comunes/personas_trabajadores_arl/consultarguardiantrabajador/README.md)
 
 ## Arquitectura
 Descripción de la arquitectura
