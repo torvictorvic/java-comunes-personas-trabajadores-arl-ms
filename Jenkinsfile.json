@@ -8,72 +8,72 @@
         "dockerFileImgDataDog": "gradle-jdk11-datadog"
     },
     "dockerfile": {
-        "app": "comunes-personas-trabajadores-arl-ms-0.0.1-SNAPSHOT.jar"
+        "app": "xxxxxxxxx-personas-trabajadores-arl-ms-0.0.1-SNAPSHOT.jar"
     },
     "dev": {
-        "cluster": "commons-dev-ms-implementacion-fargate",
-        "serviceName": "commons-dev-java-comunes-personas_trabajadores_arl",
+        "cluster": "xxxxxxxxx-dev-ms-implementacion-fargate",
+        "serviceName": "xxxxxxxxx-dev-java-xxxxxxxxx-personas_trabajadores_arl",
         "securityGroups": "sg-0ff93f6f017bc06f7",
         "subnets": "subnet-0a2e19ac0ba2275d5,subnet-0a0cf8e6769dd15d3,subnet-04fb355c061ef259d",
         "assignPublicIp": "ENABLED",
-        "taskDefinition": "dev-java-comunes-personas_trabajadores_arl-tsk",
+        "taskDefinition": "dev-java-xxxxxxxxx-personas_trabajadores_arl-tsk",
         "launchType": "FARGATE",
         "taskCount": "2",
-        "repositoryImage": "009635384771.dkr.ecr.us-east-1.amazonaws.com/commons-dev-java-comunes-personas-trabajadores-arl",
+        "repositoryImage": "009635384771.dkr.ecr.us-east-1.amazonaws.com/xxxxxxxxx-dev-java-xxxxxxxxx-personas-trabajadores-arl",
         "repositoryUrl": "https://009635384771.dkr.ecr.us-east-1.amazonaws.com"
     },
     "stage": {
-        "cluster": "commons-stage-ms-implementacion-fargate",
-        "serviceName": "commons-stage-java-comunes-personas_trabajadores_arl",
+        "cluster": "xxxxxxxxx-stage-ms-implementacion-fargate",
+        "serviceName": "xxxxxxxxx-stage-java-xxxxxxxxx-personas_trabajadores_arl",
         "securityGroups": "sg-0484a70ad3d019ba7",
         "subnets":"subnet-0cdc8dbd9a3980500,subnet-0986d8e902b4deec7,subnet-0809f749c890117fa",
         "assignPublicIp": "ENABLED",
-        "taskDefinition": "stage-java-comunes-personas_trabajadores_arl-tsk",
+        "taskDefinition": "stage-java-xxxxxxxxx-personas_trabajadores_arl-tsk",
         "launchType": "FARGATE",
         "taskCount": "2",
-        "repositoryImage": "811487420354.dkr.ecr.us-east-1.amazonaws.com/commons-stage-java-comunes-personas-trabajadores-arl",
+        "repositoryImage": "811487420354.dkr.ecr.us-east-1.amazonaws.com/xxxxxxxxx-stage-java-xxxxxxxxx-personas-trabajadores-arl",
         "repositoryUrl": "https://811487420354.dkr.ecr.us-east-1.amazonaws.com"
     },
     "prod": {
-        "cluster": "commons-prod-ms-implementacion-fargate",
-        "serviceName": "commons-prod-java-comunes-personas_trabajadores_arl",
+        "cluster": "xxxxxxxxx-prod-ms-implementacion-fargate",
+        "serviceName": "xxxxxxxxx-prod-java-xxxxxxxxx-personas_trabajadores_arl",
         "securityGroups": "sg-0c25d64cf4076e366",
         "subnets": "subnet-01ef58cd03f118b8f,subnet-098f3be0b136ef0ca,subnet-04110d76d244baa26",
         "assignPublicIp": "ENABLED",
-        "taskDefinition": "prod-java-comunes-personas_trabajadores_arl-tsk",
+        "taskDefinition": "prod-java-xxxxxxxxx-personas_trabajadores_arl-tsk",
         "launchType": "FARGATE",
         "taskCount": "2",
         "repositoryUrl": "https://840419845488.dkr.ecr.us-east-1.amazonaws.com",
-        "repositoryImage": "840419845488.dkr.ecr.us-east-1.amazonaws.com/commons-prod-java-comunes-personas-trabajadores-arl"
+        "repositoryImage": "840419845488.dkr.ecr.us-east-1.amazonaws.com/xxxxxxxxx-prod-java-xxxxxxxxx-personas-trabajadores-arl"
     },
     "apigateway": {
         "dev" : {
-            "name": "commons-dev-core"
+            "name": "xxxxxxxxx-dev-core"
         },
         "stage": {
-            "name": "commons-stage-core"
+            "name": "xxxxxxxxx-stage-core"
         },
         "prod": {
-            "name": "commons-prod-core"
+            "name": "xxxxxxxxx-prod-core"
         }
     },
     "swaggerParameters": {
         "dev": {
-            "basePath": "http://commons-dev-nlb-b4fb7d7f7f8cc6d3.elb.us-east-1.amazonaws.com/{basePath}",
-            "uri" : "http://commons-dev-nlb-b4fb7d7f7f8cc6d3.elb.us-east-1.amazonaws.com/trabajadores_arl/{proxy}",
-            "uriopenapi": "http://commons-dev-nlb-b4fb7d7f7f8cc6d3.elb.us-east-1.amazonaws.com/trabajadores_arl",
+            "basePath": "http://xxxxxxxxx-dev-nlb-b4fb7d7f7f8cc6d3.elb.us-east-1.amazonaws.com/{basePath}",
+            "uri" : "http://xxxxxxxxx-dev-nlb-b4fb7d7f7f8cc6d3.elb.us-east-1.amazonaws.com/trabajadores_arl/{proxy}",
+            "uriopenapi": "http://xxxxxxxxx-dev-nlb-b4fb7d7f7f8cc6d3.elb.us-east-1.amazonaws.com/trabajadores_arl",
             "vpc_link":"mlzibe"
         },
         "stage": {
-            "basePath":"http://commons-stage-nlb-a5263571232c084e.elb.us-east-1.amazonaws.com/{basePath}",
-            "uri":"http://commons-stage-nlb-a5263571232c084e.elb.us-east-1.amazonaws.com/trabajadores_arl/{proxy}",
-            "uriopenapi": "http://commons-stage-nlb-a5263571232c084e.elb.us-east-1.amazonaws.com/trabajadores_arl",
+            "basePath":"http://xxxxxxxxx-stage-nlb-a5263571232c084e.elb.us-east-1.amazonaws.com/{basePath}",
+            "uri":"http://xxxxxxxxx-stage-nlb-a5263571232c084e.elb.us-east-1.amazonaws.com/trabajadores_arl/{proxy}",
+            "uriopenapi": "http://xxxxxxxxx-stage-nlb-a5263571232c084e.elb.us-east-1.amazonaws.com/trabajadores_arl",
             "vpc_link":"8w8324"
         },
         "prod": {
-            "basePath": "http://commons-prod-nlb-cad00df53b0da150.elb.us-east-1.amazonaws.com/{basePath}",
-            "uri": "http://commons-prod-nlb-cad00df53b0da150.elb.us-east-1.amazonaws.com/trabajadores_arl/{proxy}",
-            "uriopenapi": "http://commons-prod-nlb-cad00df53b0da150.elb.us-east-1.amazonaws.com/trabajadores_arl",
+            "basePath": "http://xxxxxxxxx-prod-nlb-cad00df53b0da150.elb.us-east-1.amazonaws.com/{basePath}",
+            "uri": "http://xxxxxxxxx-prod-nlb-cad00df53b0da150.elb.us-east-1.amazonaws.com/trabajadores_arl/{proxy}",
+            "uriopenapi": "http://xxxxxxxxx-prod-nlb-cad00df53b0da150.elb.us-east-1.amazonaws.com/trabajadores_arl",
             "vpc_link": "742ayn"
         }
     },
