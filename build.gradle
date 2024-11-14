@@ -5,7 +5,7 @@ plugins {
 	id 'jacoco'
 }
 
-group = 'com.bolivar.comunes-personas-trabajadores-arl'
+group = 'com.xxxxxxxxxxx.comunes-personas-trabajadores-arl'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 configurations {
@@ -17,7 +17,7 @@ configurations {
 
 repositories {
 	mavenLocal {
-		url 'https://segurosbolivar.jfrog.io/artifactory/commons-gradle-parameter-store-local/'
+		url 'https://xxxxxxxxxxx.jfrog.io/artifactory/commons-gradle-parameter-store-local/'
 		credentials {
 			username "${artifactory_user}"
 			password "${artifactory_password}"
@@ -25,7 +25,7 @@ repositories {
 	}
 	
 	mavenLocal {
-		url 'https://segurosbolivar.jfrog.io/artifactory/commons-gradle-bolivar-core-api-doc-starter-local/'
+		url 'https://xxxxxxxxxxx.jfrog.io/artifactory/commons-gradle-xxxxxxxxxxx-core-api-doc-starter-local/'
 		credentials {
 			username "${artifactory_user}"
 			password "${artifactory_password}"
@@ -33,7 +33,7 @@ repositories {
 	}
 	
 	mavenLocal {
-		url 'https://segurosbolivar.jfrog.io/artifactory/commons-gradle-bolivar-core-error-handling-starter-local/'
+		url 'https://xxxxxxxxxxx.jfrog.io/artifactory/commons-gradle-xxxxxxxxxxx-core-error-handling-starter-local/'
 		credentials {
 			username "${artifactory_user}"
 			password "${artifactory_password}"
@@ -41,7 +41,7 @@ repositories {
 	}
 	
 	mavenLocal {
-		url 'https://segurosbolivar.jfrog.io/artifactory/commons-gradle-mybatisutils-local/'
+		url 'https://xxxxxxxxxxx.jfrog.io/artifactory/commons-gradle-mybatisutils-local/'
 		credentials {
 			username "${artifactory_user}"
 			password "${artifactory_password}"
@@ -49,7 +49,7 @@ repositories {
 	}
 	
 	maven {
-		url "https://segurosbolivar.jfrog.io/artifactory/jcenter"
+		url "https://xxxxxxxxxxx.jfrog.io/artifactory/jcenter"
 		credentials {
 			username "${artifactory_user}"
 			password "${artifactory_password}"
@@ -80,16 +80,16 @@ dependencies {
 
 	//Libreria MyBatis
 	implementation group: 'org.mybatis.spring.boot', name: 'mybatis-spring-boot-starter', version: '2.1.3'
-	implementation 'com.bolivar.mybatis.util.core:bolivar-core-mybatis-utils:1.0.0.RELEASE'
+	implementation 'com.xxxxxxxxxxx.mybatis.util.core:xxxxxxxxxxx-core-mybatis-utils:1.0.0.RELEASE'
 
 	//Parameter Storage
-	implementation group : 'com.segurosbolivar.utils' , name: 'parameter-storage-poc-lib', version: '1.0.1.RELEASE'
+	implementation group : 'com.xxxxxxxxxxx.utils' , name: 'parameter-storage-poc-lib', version: '1.0.1.RELEASE'
 
 	//Manejo de Errores
-	compile(group: 'com.bolivar.error.handling', name: 'bolivar-core-error-handling-starter', version: '1.0.1.RELEASE')
+	compile(group: 'com.xxxxxxxxxxx.error.handling', name: 'xxxxxxxxxxx-core-error-handling-starter', version: '1.0.1.RELEASE')
 
 	//Libreria Swagger
-	implementation group : 'com.bolivar.api.doc' , name: 'bolivar-core-api-doc-starter', version: '1.0.1.RELEASE'
+	implementation group : 'com.xxxxxxxxxxx.api.doc' , name: 'xxxxxxxxxxx-core-api-doc-starter', version: '1.0.1.RELEASE'
 	implementation 'io.swagger.core.v3:swagger-annotations:2.1.10'
 
 	//Libreria Actuator
